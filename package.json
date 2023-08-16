@@ -12,6 +12,7 @@
   "dependencies": {
     "i18next": "^23.2.8",
     "i18next-browser-languagedetector": "^7.0.1",
+    "mapbox-gl": "^2.15.0",
     "prettier": "^2.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -20,6 +21,7 @@
   },
   "devDependencies": {
     "@types/eslint": "^8",
+    "@types/mapbox-gl": "^2.7.13",
     "@types/node": "^18.11.18",
     "@types/prettier": "^2",
     "@types/react": "^18.0.26",
